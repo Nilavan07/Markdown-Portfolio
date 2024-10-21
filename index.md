@@ -23,3 +23,6 @@ I'm focused on learning how to:
 
 
 Feel free to explore my site and check out what I'm working on!
+
+[ContactInfo](/contact.md)
+[Projects](/projects.md)
